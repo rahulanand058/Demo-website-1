@@ -126,7 +126,7 @@ body {
 
 }
 
-/* about us */
+/*-------------------------------about us---------------*/
 
 #about-us{
     background-color: #f8f9fa;
@@ -141,7 +141,7 @@ body {
 }
 
 #about-us ul li{
-    margin: 10px 0;
+    margin: 20px 0;
 
 } 
 
@@ -149,7 +149,7 @@ body {
     margin-left: 45px;
 }
 
-/* Testimonials */
+/* --------------------Testimonials-------------*/
 #testimonials
 {
     margin: 100px 0;
@@ -175,7 +175,7 @@ body {
     justify-content: space-around;
 }
 
-/* social media */
+/*---------------------------------social media----------------*/
 
 #social-media{
     background-color: #ffffff;
@@ -197,7 +197,7 @@ body {
 
 }
 
-/* footer */
+/*-----------------------------footer---------------------*/
 #footer{
     background-image: linear-gradient(to right,#c3ecf4, #10acbb);
 
