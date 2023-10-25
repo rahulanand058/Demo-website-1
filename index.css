@@ -148,6 +148,9 @@ body {
 .about-us ul{
     margin-left: 45px;
 }
+.about-us p{
+    margin-left: 20px;
+}
 
 /* --------------------Testimonials-------------*/
 #testimonials
